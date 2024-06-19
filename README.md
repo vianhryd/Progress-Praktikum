@@ -1,4 +1,4 @@
-# progress-praktikum
+# Progress Praktikum
 
 Nama: Vian Haryadi <br>
 NPM: 2210631250072 <br>
